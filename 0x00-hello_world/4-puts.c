@@ -1,21 +1,19 @@
 1 #include <stdio.h>
 
-2
+2 /**
 
-3 /**
+3  *main - main block
 
-4  *main - Entry point
+4  *Return: 0
 
-5  *Return: Always 0 (Success)
+5  */
 
-6  */
+6  int main(void)
 
-7
+7  {
 
-8  int main(void)
+8	    puts("\"Programming is like building a multilingual puzzle");
 
-9  {
+9	    return (0);
 
-10	    puts("\"Programming is like building a multilingual puzzle");
-
-11	    return (0);
+10 }
