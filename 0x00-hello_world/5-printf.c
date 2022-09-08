@@ -2,20 +2,18 @@
 
 2	/**
  
-3	 * main - Entry point
+3	 * main - main block
+ 	 
+4	 * Return: 0
  
-4	 *
-	 
-5	 * Return: always 0
- 
-6	 */
+5	 */
 
-7	int main(void)
+6	int main(void)
 
-8	{
+7	{
 	
-9		printf("with proper grammar, but the outcome is a piece of art,\n");
+8		printf("with proper grammar, but the outcome is a piece of art,\n");
 
-10		return (0);
+9		return (0);
 
-11	}
+10	}
